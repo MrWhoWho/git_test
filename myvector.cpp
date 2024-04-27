@@ -7,7 +7,7 @@ using namespace std;
 
 void PrintVector(vector<int>& v)
 {
-	cout << v.size()<<"hello"<<"git" << endl;
+	cout << v.size()<<"hello"<<"git"<<"hello" << endl;
 	for (auto it = v.begin(); it != v.end(); it++)
 	{
 		cout << *(it) << " ";
